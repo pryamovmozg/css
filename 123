@@ -1,0 +1,8 @@
+
+	font-family: 'ProximaNovaExtraCondensedt';
+	src: url('ProximaNovaExtraCondensed.eot');
+	src: url('ProximaNovaExtraCondensed.eot?#iefix') format('embedded-opentype'),
+	     url('ProximaNovaExtraCondensed.woff') format('woff'),
+	     url('ProximaNovaExtraCondensed.ttf') format('truetype'),
+	     url('ProximaNovaExtraCondensed.svg#webfont') format('svg');
+}
